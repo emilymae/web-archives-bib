@@ -2,45 +2,39 @@
 
 These themes were developed as a useful way of sorting through the different types of publications on web archives and web archiving, with a focus on recent work (published in the last five years) but also including some more foundational sources.
 
-0. [Introductions to the field](#0.-introductions-to-the-field)
-  0.1 [Guides for Creating and Using Web Archives](#0.1-guides-for-creating-and-using-web-archives)
-  0.2 [Other Bibliographies](#0.2-other-bibliographies)
-  0.3 [The Need for Web Archives](#0.3-the-need-for-web-archives)
-  0.4 [Surveys and State of the Art Reports](#0.4-surveys-and-state-of-the-art-reports)
-1. [Research on Collecting](#1.-research-on-collecting)
-  1.1 [Tool Development for Collecting](#1.1-tool-development-for-collecting)
-  1.2 [Improving Collection Methods](#1.2-improving-collection-methods)
-  1.3 [Evaluating Archivability](#0.3-evaluating-archivability)
-  1.4 [Surveys and State of the Art Reports](#0.4-surveys-and-state-of-the-art-reports)
-2. [Research on Access and Use](#2.-research-on-access-and-use)
-  2.1 [Tool Development for Access](#2.1-tool-development-for-access)
-  2.2 [Approaches to Search and Retrieval](#2.2-approaches-to-search-and-retrieval)
-  2.3 [Description and Metadata](#2.3-description-and-metadata)
-  2.4 [Research Data Management](#2.4-research-data-management)
-3. [Approaches to Web Archives as Scholarly Sources](#3.-approaches-to-web-archives-as-scholarly-sources)
-  3.1 [Studying and Reconstructing Individual Sites](#3.1-studying-and-reconstructing-individual-sites)
-  3.2 [Studying Collections of National Webs](#3.2-studying-collections-of-national-webs)
-  3.3 [Studying specific communities, events and topics](#3.3-studying-specific-communities,-events-and-topics)
-  3.4 [Theoretical and Methodological Reflections](#3.4-theoretical-and-methodological-reflections)
-3. [Approaches to Web Archives as Scholarly Sources](#3.-approaches-to-web-archives-as-scholarly-sources)
-  3.1 [Studying and Reconstructing Individual Sites](#3.1-studying-and-reconstructing-individual-sites)
-  3.2 [Studying Collections of National Webs](#3.2-studying-collections-of-national-webs)
-  3.3 [Studying specific communities, events and topics](#3.3-studying-specific-communities,-events-and-topics)
-  3.4 [Theoretical and Methodological Reflections](#3.4-theoretical-and-methodological-reflections)
-4. [Studying and Evaluating Web Archives and Web Archiving](#4.-studying-and-evaluating-web-archives-and-web-archiving)
-  4.1 [Evaluating the ‘unarchived’ and resources missing from a collection](#4.1-evaluating-the-‘unarchived’-and-resources-missing-from-a-collection)
-  4.2 [Comparing Collections to each other or to the live web](#4.2-comparing-collections-to-each-other-or-to-the-live-web)
-  4.3 [Tracing Archival Time and Temporality](#4.3-tracing-archival-time-and-temporality)
-5. [Twitter and Social Media](#5.-twitter-and-social-media)
-6. [Ethics](#6.-ethics)
+* **[0. Introductions to the field](#0-introductions-to-the-field)**
+  * 0.1 [Guides for Creating and Using Web Archives](#01-guides-for-creating-and-using-web-archives)
+  * 0.2 [Other Bibliographies](#02-other-bibliographies)
+  * 0.3 [The Need for Web Archives](#03-the-need-for-web-archives)
+  * 0.4 [Surveys and State of the Art Reports](#04-surveys-and-state-of-the-art-reports)
+* **[1. Research on Collecting](#1-research-on-collecting)**
+  * 1.1 [Tool Development for Collecting](#11-tool-development-for-collecting)
+  * 1.2 [Improving Collection Methods](#12-improving-collection-methods)
+  * 1.3 [Evaluating Archivability](#13-evaluating-archivability)
+* **[2. Research on Access and Use](#2-research-on-access-and-use)**
+  * 2.1 [Tool Development for Access](#21-tool-development-for-access)
+  * 2.2 [Approaches to Search and Retrieval](#22-approaches-to-search-and-retrieval)
+  * 2.3 [Description and Metadata](#23-description-and-metadata)
+  * 2.4 [Research Data Management](#24-research-data-management)
+* **[3. Approaches to Web Archives as Scholarly Sources](#3-approaches-to-web-archives-as-scholarly-sources)**
+  * 3.1 [Studying and Reconstructing Individual Sites](#31-studying-and-reconstructing-individual-sites)
+  * 3.2 [Studying Collections of National Webs](#32-studying-collections-of-national-webs)
+  * 3.3 [Studying specific communities, events and topics](#33-studying-specific-communities-events-and-topics)
+  * 3.4 [Theoretical and Methodological Reflections](#34-theoretical-and-methodological-reflections)
+* **[4. Studying and Evaluating Web Archives and Web Archiving](#4-studying-and-evaluating-web-archives-and-web-archiving)**
+  * 4.1 [Evaluating the ‘unarchived’ and resources missing from a collection](#41-evaluating-the-unarchived-and-resources-missing-from-a-collection)
+  * 4.2 [Comparing Collections to each other or to the live web](#42-comparing-collections-to-each-other-or-to-the-live-web)
+  * 4.3 [Tracing Archival Time and Temporality](#43-tracing-archival-time-and-temporality)
+* **[5. Twitter and Social Media](#5-twitter-and-social-media)**
+* **[6. Ethics](#6-ethics)**
 
 Many of the publications may fall under more than one category, but are presented here in a way that fit best for my purposes of analysis.
 
 This is a work in progress, and suggestions or additions are welcome - feel free to create an issue for this repo or send me an email at e.maemura[at]mail.utoronto.ca. 
 
-#0. Introductions to the field
+# 0. Introductions to the field
 
-##0.1 Guides for Creating and Using Web Archives
+## 0.1 Guides for Creating and Using Web Archives
 
 Brown, A. (2006). *Archiving websites: a practical guide for information
 management professionals*. London: Facet Pub.
@@ -64,7 +58,7 @@ Niu, J. (2012). An Overview of Web Archiving. *D-Lib Magazine*,
 Pennock, M. (2013). *Web-Archiving*. Digital Preservation Coalition.
 <https://doi.org/10.7207/twr13-01>
 
-##0.2 Other Bibliographies
+## 0.2 Other Bibliographies
 
 Ayala, B. R. (2013, June 28). Web Archiving Bibliography 2013 \[Text\].
 Retrieved March 27, 2017, from
@@ -80,7 +74,7 @@ Bibliography. Retrieved March 23, 2018, from
 Web Archiving Reading List. (n.d.). Retrieved June 1, 2018, from
 <https://archive-it.org/blog/projects/community-webs/web-archiving-reading-list/>
 
-##0.3 The Need for Web Archives
+## 0.3 The Need for Web Archives
 
 Barone, F., Zeitlyn, D., & Mayer-Schönberger, V. (2015). Learning from
 failure: The case of the disappearing Web site. *First Monday*, *20*(5).
@@ -94,7 +88,7 @@ Winters, J. (2017). Breaking in to the mainstream: demonstrating the
 value of internet (and web) histories. *Internet Histories*, *1*(1–2),
 173–179. <https://doi.org/10.1080/24701475.2017.1305713>
 
-##0.4 Surveys and State of the Art Reports
+## 0.4 Surveys and State of the Art Reports
 
 Bailey, J., Grotke, A., Hanna, K., Hartman, C., McCain, E., Moffatt, C.,
 & Taylor, N. (2014). *Web Archiving in the United States: a 2013
@@ -128,7 +122,7 @@ Truman, G. (2016). *WebArchiving Environmental Scan* (Harvard Library
 Report). Harvard Library. Retrieved from
 <http://nrs.harvard.edu/urn-3:HUL.InstRepos:25658314>
 
-#1. Research on Collecting
+# 1. Research on Collecting
 
 Cadavid, J. A. P. (2014). Copyright Challenges of Legal Deposit and Web
 Archiving in the National Library of Singapore. *Alexandria: The Journal
@@ -194,7 +188,7 @@ Farag, M. M. G., Lee, S., & Fox, E. A. (2018). Focused crawler for
 events. *International Journal on Digital Libraries*, *19*(1).
 <https://doi.org/10.1007/s00799-016-0207-1>
 
-##1.2 Improving Collection Methods
+## 1.2 Improving Collection Methods
 
 Brunelle, J. F., Weigle, M. C., & Nelson, M. L. (2015). Archiving
 Deferred Representations Using a Two-Tiered Crawling Approach. In
@@ -259,7 +253,7 @@ Papatheodorou, M. Dobreva, G. Tsakonas, & C. J. Farrugia (Eds.),
 35–47). Berlin, Heidelberg: Springer Berlin Heidelberg.
 <https://doi.org/10.1007/978-3-642-40501-3_5>
 
-#2. Research on Access and Use
+# 2. Research on Access and Use
 
 AlNoamany, Y., AlSum, A., Weigle, M. C., & Nelson, M. L. (2014). Who and
 what links to the Internet Archive. *International Journal on Digital
@@ -299,7 +293,7 @@ Challenges and Opportunities for Investment* (SSRN Scholarly Paper No.
 ID 1715000). Rochester, NY: Social Science Research Network. Retrieved
 from <https://papers.ssrn.com/abstract=1715000>
 
-##2.1 Tool Development for Access
+## 2.1 Tool Development for Access
 
 Holzmann, H., Goel, V., & Anand, A. (2016). ArchiveSpark: Efficient Web
 Archive Access, Extraction and Derivation. In *Proceedings of the 16th
@@ -312,7 +306,7 @@ Analytics Infrastructure for Exploring Web Archives. *Journal on
 Computing and Cultural Heritage*, *10*(4), 1–30.
 <https://doi.org/10.1145/3097570>
 
-##2.2 Approaches to Search and Retrieval
+## 2.2 Approaches to Search and Retrieval
 
 Costa, M., Gomes, D., Couto, F., & Silva, M. (2013). A Survey of Web
 Archive Search Architectures. In *Proceedings of the 22nd International
@@ -344,7 +338,7 @@ A. P. (2018). Quantifying retrieval bias in Web archive search.
 *International Journal on Digital Libraries*, *19*(1), 57–75.
 <https://doi.org/10.1007/s00799-017-0215-9>
 
-##2.3 Description and Metadata
+## 2.3 Description and Metadata
 
 Oury, C., Blumenthal, K.-R., & Peyrard, S. (2016). Digital Preservation
 Metadata Practice for Web Archives. In A. Dappert, R. S. Guenther, & S.
@@ -370,7 +364,7 @@ Archiving Metadata Best Practices to Meet User Needs. *Journal of
 Western Archives*, *8*(2). Retrieved from
 <https://digitalcommons.usu.edu/westernarchives/vol8/iss2/5>
 
-##2.4 Research Data Management
+## 2.4 Research Data Management
 
 Huurdeman, H., & Kamps, J. (2017). A Collaborative Approach to Research
 Data Management in a Web Archive Context. In J. B. Thestrup & F. Kruse
@@ -381,7 +375,7 @@ Jurik, B., & Zierau, E. (2017). Data management of web archive research
 data. In *Web Archiving Week 2017*. London, UK. Retrieved from
 <http://archivedweb.blogs.sas.ac.uk/files/2017/06/RESAW2017-JurikZierau-Data_management_of_web_archive_research_data.pdf>
 
-#3. Approaches to Web Archives as Scholarly Sources
+# 3. Approaches to Web Archives as Scholarly Sources
 
 Arora, S. K., Li, Y., Youtie, J., & Shapira, P. (2016). Using the
 wayback machine to mine websites in the social sciences: A
@@ -425,7 +419,7 @@ Weber, M. S. (2018). Methods and Approaches to Using Web Archives in
 Computational Communication Research. *Communication Methods and
 Measures*, *0*(0), 1–16. <https://doi.org/10.1080/19312458.2018.1447657>
 
-##3.1 Studying and Reconstructing Individual Sites
+## 3.1 Studying and Reconstructing Individual Sites
 
 Rogers, R. (2017). Doing Web history with the Internet Archive:
 screencast documentaries. *Internet Histories*, *1*(1–2), 160–172.
@@ -440,7 +434,7 @@ Chakraborty, A., & Nanni, F. (2017). The changing digital faces of
 science museums: A diachronic analysis of museum websites. In N. Brügger
 (Ed.), *Web 25* (pp. 157–172). New York: Peter Lang.
 
-##3.2 Studying Collections of National Webs
+## 3.2 Studying Collections of National Webs
 
 Ben-David, A. (2016). What does the Web remember of its deleted past? An
 archival reconstruction of the former Yugoslav top-level domain. *New
@@ -493,7 +487,7 @@ Brügger, N., Laursen, D., & Nielsen, J. (2017). Exploring the domain
 names of the Danish web. In N. Brügger & R. Schroeder (Eds.), *The Web
 as History* (pp. 62–80). London: UCL Press.
 
-##3.3 Studying specific communities, events and topics
+## 3.3 Studying specific communities, events and topics
 
 Ackland, R., & Evans, A. (2017). Using the web to examine the evolution
 of the abortion debate in Australia, 2005– 2015. In N. Brügger & R.
@@ -531,7 +525,7 @@ The professional acclimation of the World Wide Web in France. *New Media
 & Society*, *18*(7), 1143–1158.
 <https://doi.org/10.1177/1461444816643792>
 
-##3.4 Theoretical and Methodological Reflections
+## 3.4 Theoretical and Methodological Reflections
 
 Ben-David, A., & Huurdeman, H. (2014). Web Archive Search as Research:
 Methodological and Theoretical Implications. *Alexandria*, *25*(1),
@@ -563,7 +557,7 @@ Winters, J. (2017). Coda: Web archives for humanities research - some
 reflections. In N. Brügger & R. Schroeder, *The Web as History* (pp.
 238–248). London: UCL Press.
 
-#4. Studying and Evaluating Web Archives and Web Archiving
+# 4. Studying and Evaluating Web Archives and Web Archiving
 
 Ben-David, A., & Amram, A. (2018). The Internet Archive and the
 socio-technical construction of historical facts. *Internet Histories*,
@@ -589,7 +583,7 @@ cultural history of world web archiving. In N. Brügger (Ed.), *Web 25*
 (pp. 175–190). New York: Peter
 Lang.
 
-##4.1 Evaluating the ‘unarchived’ and resources missing from a collection
+## 4.1 Evaluating the ‘unarchived’ and resources missing from a collection
 
 Brunelle, J. F., Kelly, M., SalahEldeen, H., Weigle, M. C., & Nelson, M.
 L. (2014). Not all mementos are created equal: Measuring the impact of
@@ -613,7 +607,7 @@ international ACM SIGIR conference on Research & development in
 information retrieval* (pp. 1199–1202). ACM Press.
 <https://doi.org/10.1145/2600428.2609544>
 
-##4.2 Comparing Collections to each other or to the live web
+## 4.2 Comparing Collections to each other or to the live web
 
 Ainsworth, S. G., Nelson, M. L., & Van de Sompel, H. (2015). Only One
 Out of Five Archived Web Pages Existed as Presented. In *Proceedings of
@@ -637,7 +631,7 @@ Using Anchor Texts. In *Research and Advanced Technology for Digital
 Libraries* (pp. 133–146). Springer, Cham.
 <https://doi.org/10.1007/978-3-319-43997-6_11>
 
-##4.3 Tracing Archival Time and Temporality
+## 4.3 Tracing Archival Time and Temporality
 
 Ainsworth, S. G., & Nelson, M. L. (2015). Evaluating sliding and sticky
 target policies by measuring temporal drift in acyclic walks through a
@@ -654,7 +648,7 @@ estimating the age of web resources. In *Proceedings of the 22nd
 International Conference on World Wide Web* (pp. 1075–1082). Rio de
 Janeiro, Brazil: ACM Press. <https://doi.org/10.1145/2487788.2488121>
 
-#5. Twitter and Social Media
+# 5. Twitter and Social Media
 
 Barbier, G., Feng, Z., Gundecha, P., & Liu, H. (2013). Provenance Data
 in Social Media. *Synthesis Lectures on Data Mining and Knowledge
@@ -737,7 +731,7 @@ Challenges for information practice and information policy. *First
 Monday*, *20*(7). Retrieved from
 <http://firstmonday.org/ojs/index.php/fm/article/view/5619>
 
-#6. Ethics
+# 6. Ethics
 
 Dougherty, M. (2013). Property or Privacy? Reconfiguring Ethical
 Concerns Around Web Archival Research Methods. *Selected Papers of
