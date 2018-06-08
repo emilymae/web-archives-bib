@@ -1,6 +1,6 @@
 # Select Sources Sorted by Venue
 
-During my analysis I tried to group individual papers or articles by their common publication or venue, particularly for anthologies, special issues, or conference proceedings. I found this useful both to view these materials in aggregate and get a perspective on the larger discussion, as well as to assemble these sources like conference papers that are sometimes difficult to locate in the absence of fully published proceedings.
+The following list groups individual papers or articles by their common publication or venue, particularly for anthologies, special issues, or conference proceedings. I found this useful both to view these materials in aggregate and get a perspective on the larger discussion, as well as to assemble these sources like conference papers that are sometimes difficult to locate in the absence of fully published proceedings.
 
 * **Anthologies**
   * [The Web as History (2017)](#the-web-as-history-2017)
